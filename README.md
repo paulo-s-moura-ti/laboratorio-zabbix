@@ -58,9 +58,16 @@ agentes e comunicação entre os hosts.
 - Diagnóstico de problemas
 - Criação de dashboards e triggers
 
+- ## 📊 Dashboard
+
+Dashboard principal do ambiente de monitoramento desenvolvido com Zabbix.
+
+![Dashboard principal](screenshots/dashboard-principal.png)
+
 ## 🚀 Próximos passos
 
 - Aprimorar monitoramento via SNMP
 - Criar novos templates
 - Automatizar tarefas utilizando Bash/Python
 - Integrar novos equipamentos ao monitoramento
+  
